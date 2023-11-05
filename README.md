@@ -1,8 +1,8 @@
-Data Science Portfolio
+##Data Science Portfolio
 
 A collection of selected data science projects to demonstrate skill sets, knowledge, and interests.
 
-Contents
+#Contents
 
 Sentiment Analysis Classifier on Twitter using LSTM
 
