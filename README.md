@@ -9,11 +9,11 @@ This portfolio showcases my skills in NLP, Machine Learning and data analysis. E
 # Contents
 
 * Sentiment Analysis Classifier on Twitter using LSTM
-  * Description: Building a sentiment analysis classifier for Twitter data using Long Short-Term Memory (LSTM) networks.
+  * Description: Building a sentiment analysis classifier for Twitter, using Long Short-Term Memory (LSTM) networks. The experiment was mostly conducting using the data of most followed politicians to see if Twitter actually reflects their approval rate and how they perform in presidential elections. 
   * Key Skills: Natural Language Processing, LSTM, Twitter API
 
 * Fake News Detection Classifier using BERT - Transformers
-  * Description: Developing a fake news detection classifier using BERT-based Transformers to distinguish between real and fake news articles.
+  * Description: Developing a fake news detection classifier using BERT-based Transformers to distinguish between real and fake information on Twitter posted by the big accounts on this social media
   * Key Skills: Natural Language Processing, BERT, Transformers, Fake News Detection
 
 * Network Traffic Exploratory Data Analysis using PySpark SQL
