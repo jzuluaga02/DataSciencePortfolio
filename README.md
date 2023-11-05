@@ -1,6 +1,10 @@
 ## Data Science Portfolio
 
-A collection of selected data science projects to demonstrate skill sets, knowledge, and interests.
+I am Juan Manuel Zuluaga Fernandez, a Computer Science Master's candidate at Santa Clara University with a Bachelor's in Software Engineering from Universidad Pontificia Bolivariana. I'm passionate about data science, NLP, and software engineering.
+
+This portfolio showcases my skills in NLP, Machine Learning and data analysis. Explore my projects and accomplishments as I navigate the tech world.
+
+
 
 # Contents
 
