@@ -39,7 +39,7 @@ I'm constantly learning and trying to come up with new ideas and projects that c
     * Real-time Object Recognition
 
 * Mental Health Support Chatbot
-  * Description: The first phase of this project involves training object recognition models using publicly available images from the internet. The objective is to develop a                 foundation for a smart home surveillance system with object recognition capabilities.**
+  * Description: This project creates a chatbot capable of holding a conversation with a person struggling in their lives, suggesting solutions or encouraging people to ask for help if needed.
   * Key Skills:
     * Natural Language Processing (NLP)
     * Sentiment Analysis
