@@ -21,3 +21,9 @@ Extensive data mining was undertaken, scraping tweets from the main politicians 
 
 
 
+<h1 align="left">Trump vs Biden approval rate timeline</h1>
+
+![image](https://github.com/jzuluaga02/data-science-portfolio/assets/114960212/c114363a-4284-4384-92cc-e65f57b43c71)
+
+
+
