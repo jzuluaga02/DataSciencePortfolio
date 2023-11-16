@@ -12,3 +12,11 @@ Extensive data mining was undertaken, scraping tweets from the main politicians 
 ● Built an LSTM sentiment classifier with 86% accuracy, offering a reliable alternative to traditional election surveys.
 
 ● Addressed the sarcasm limitation inherent in sentiment analysis classifiers by curating a dataset manually labeled by authentic users of the application. This dataset, comprising up to 5000 rows, yielded favorable results in detecting sarcasm within discourse.
+
+
+
+<p align="center">
+![image](https://github.com/jzuluaga02/data-science-portfolio/assets/114960212/90431fce-2a93-4b32-a4f9-5571603ef5bc)
+  Trump approval rate timeline
+</p>
+
