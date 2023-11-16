@@ -15,8 +15,8 @@ Extensive data mining was undertaken, scraping tweets from the main politicians 
 
 
 
-<p align="center">
+
 ![image](https://github.com/jzuluaga02/data-science-portfolio/assets/114960212/90431fce-2a93-4b32-a4f9-5571603ef5bc)
   Trump approval rate timeline
-</p>
+
 
